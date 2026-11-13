@@ -34,3 +34,7 @@ main{
     grid-template-columns: 300px;
   }
 }
+img{
+  width: 300px;
+  height: 300p;
+}
